@@ -3,3 +3,18 @@
     background-color: #ffb3fc;
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
+
+#two {
+    color: #103ee6;
+    font-size: 36px;
+}
+
+#change-size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #6ef57c;
+    font-size: 24px;
+    font-weight: bold;
+}
